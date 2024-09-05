@@ -27,6 +27,7 @@ As an Electronic Engineer and Software Developer, I pride myself on being proact
 ![Nestjs](https://img.shields.io/badge/nestjs-%23DD0031.svg?style=for-the-badge&logo=nestjs&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
+![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)&nbsp;
 
 ### Storages
 
@@ -40,13 +41,14 @@ As an Electronic Engineer and Software Developer, I pride myself on being proact
 ### Tools
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
-![VSCode](https://img.shields.io/badge/vscode-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)&nbsp;
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23007ACC.svg?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
 ![IntelliJ](https://img.shields.io/badge/Intellij%20IDEA-%23F1007E.svg?style=for-the-badge&logo=intellijidea&logoColor=white)&nbsp;
-![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)&nbsp;
+![VSCode](https://img.shields.io/badge/vscode-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)&nbsp;
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)&nbsp;
 ![Jasper Reports](https://img.shields.io/badge/jasper%20reports-0e5f86?style=for-the-badge)&nbsp;
 ![Swagger](https://img.shields.io/badge/-Swagger-%85EA2D?style=for-the-badge&logo=swagger&logoColor=white)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
+![SoapUI](https://img.shields.io/badge/SoapUI-ebe134?style=for-the-badge&logo=soapui&logoColor=white)&nbsp;
 ![JMeter](https://img.shields.io/badge/JMeter-C0C0C0?style=for-the-badge&logo=apachejmeter&logoColor=black)&nbsp;
 
 
